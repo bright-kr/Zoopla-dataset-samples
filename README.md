@@ -1,4 +1,4 @@
-# Zoopla-dataset-samples
+# Zoopla 데이터셋 샘플
 
 <h2>1001개의 Zoopla 부동산 매물 목록으로 구성된 샘플 データセット</h2>
 
